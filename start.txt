@@ -1,2 +1,2 @@
  test git quick start demo
-new test
+new test master
